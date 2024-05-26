@@ -1,5 +1,5 @@
 # EV_Charging_Notebooks
-A simple visualization of DC Fast Chargers that have 4 or more dispen
+A simple visualization of DC Fast Chargers that have 4 or more dispensers
 
 # How to use
 * Know how to use any kind of Jupyter Notebook.
