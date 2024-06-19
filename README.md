@@ -1,5 +1,13 @@
 # EV_Charging_Notebooks
-A simple visualization of DC Fast Chargers that have 4 or more dispensers
+Simple visualizations of EV Chargers.
+| Notebook    | Description |
+| -------- | -------  |
+| Download_Latest_Data | Run this first to get the latest data |
+| DC_Fast_Chargers_Map_USA | Map of the USA with current DC fast chargers with 4 or more dispensers    |
+| DC_Fast_Chargers_Map_USA-Animated | Same as above but animated and cool, BUT super slow to load     |
+| Networks    | A density heatmap of states and charge networks. California is winning this.    |
+
+
 
 # How to use
 * Know how to use any kind of Jupyter Notebook.
