@@ -9,5 +9,6 @@ A simple visualization of DC Fast Chargers that have 4 or more dispensers
 * Run notebook.
 * Profit!
 
+![image](https://github.com/jeffHoltStevenson/EV_Charging_Notebooks/assets/1831611/6833e408-41f9-4c98-a88d-69e62c686773)
 
 
