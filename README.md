@@ -6,6 +6,7 @@ Simple visualizations of EV Chargers.
 | DC_Fast_Chargers_Map_USA | Map of the USA with current DC fast chargers with 4 or more dispensers    |
 | DC_Fast_Chargers_Map_USA-Animated | Same as above but animated and cool, BUT super slow to load     |
 | Networks    | A density heatmap of states and charge networks. California is winning this.    |
+| Facility_Types | Breakout by Facility Type in a stacked bar chart |
 
 
 
